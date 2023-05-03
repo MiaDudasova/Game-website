@@ -244,6 +244,7 @@ body {
 .comment {
   width: 100%;
   height: calc(100% / 3);
+  max-height: 95px;
   background-color: #ee964b;
   margin: 5px 0px;
   border-radius: 15px;
